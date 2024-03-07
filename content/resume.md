@@ -69,11 +69,19 @@ challenges. I welcome your questions and inquiries. Please do not hesitate to
 
 # Work Experience
 
+## Pixel Perfect
+
+[Pixel Perfect][pixel-perfect] is a leading web design, development, SEO
+Service & graphic design agency, with the head office situated in Somerset West
+near Cape Town.
+
+### March 2024 - Present - Product Manager
+
 ## Cenobi
 
 [Cenobi][cenobi] provides IT services applicable to all company sizes.
 
-### August 2023 - Present - Manager
+### August 2023 - February 2024 - Manager
 
 My duties include the following:
 
@@ -192,6 +200,7 @@ My duties included the following:
 [certificate-comptia-itf]: /certificates/comptia_itf.pdf
 [certificate-comptia-aplus]: /certificates/comptia_aplus.pdf
 [contact]: /contact
+[pixel-perfect]: https://www.pixelperfect.co.za/
 [cenobi]: https://cenobi.xyz/
 [hugo]: https://gohugo.io/
 [gitlab-pages]: https://docs.gitlab.com/ee/user/project/pages/
